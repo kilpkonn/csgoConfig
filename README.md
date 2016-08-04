@@ -1,0 +1,3 @@
+# csgoConfig
+
+kilpkonn's csgo config...
